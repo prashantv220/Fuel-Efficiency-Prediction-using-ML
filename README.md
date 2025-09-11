@@ -86,6 +86,3 @@ Dependencies:
 - Incorporate more real-world features (car condition, demand, resale trends, region)   
 
 ---
-
-## 📝 License
-This project is licensed under the MIT License.
